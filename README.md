@@ -16,4 +16,4 @@ This software is licensed under GPL3, so use it as you like.
 But I'm just an intern so use this code at your own risk.
 
 Screenshot:
-![screenshot](./images/screenshot.png)
+![screenshot](./images/screenshot.PNG)
