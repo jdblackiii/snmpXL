@@ -5,7 +5,8 @@ queries network devices based on that info, and writes the result back to the sp
 
 # *How do I use it?*
 Open up the template.xlsx file included in the repo. Fill in the IP and MIB information for each MIB desired.
-If devices do not share credentials, they can be individually specified in the spreadsheet.
+If devices do not share credentials, they can be individually specified in the spreadsheet. Then run snmpXL with the included shortcut
+and specify the needed information. If you filled out the username and passwords in the spreadsheet, leave the fields blank.
 
 # *Who is this for?*
 You are most likely to find this useful if you are rolling out SNMPv3 to a large amount of network devices.
