@@ -1,4 +1,4 @@
-![logo](./images/logo.png)
+![logo](./src/images/logo.png)
 # *What does this software do?*
 snmpXL allows the user to get large amounts of SNMPv3 data relatively easy. It gets information from an excel spreadsheet,
 queries network devices based on that info, and writes the result back to the spreadsheet.
@@ -16,4 +16,4 @@ This software is licensed under GPL3, so use it as you like.
 But I'm just an intern so use this code at your own risk.
 
 Screenshot:
-![screenshot](./images/screenshot.PNG)
+![screenshot](./src/images/screenshot.PNG)
